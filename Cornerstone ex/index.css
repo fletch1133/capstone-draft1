@@ -1,0 +1,22 @@
+* {
+    background-color: rgb(64, 32, 194);
+}
+header {
+    text-align: center;
+    color: white;
+    padding: 35px;
+    font-size: 50px;
+}
+img {
+    
+    height: 200px;
+    width: 300px;
+}
+h2 {
+    color: white;
+    padding: 40px;
+}
+h3 {
+    color: red;
+    padding: 10px;
+}
